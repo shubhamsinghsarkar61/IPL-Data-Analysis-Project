@@ -69,6 +69,3 @@ Aspiring Data Analyst
 
 *Project Skills:*  
 Python | Pandas | NumPy | Matplotlib  
-
-*Other Skills:*  
-SQL | Intermediate Excel
