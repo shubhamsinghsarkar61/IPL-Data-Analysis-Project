@@ -1,4 +1,4 @@
-# 🏏 IPL Data Analysis using Python
+# 🏏 IPL Match Data Analysis using Python
 
 ## 📌 Project Overview
 
